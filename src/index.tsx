@@ -1,4 +1,5 @@
 import * as React from 'react';
+console.log(React.version);
 
 // Delete me
 export const Thing = () => {
